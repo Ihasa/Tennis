@@ -1,0 +1,7 @@
+Content\Sound\GameSounds.xgs
+Content\Sound\BGMs.xwb
+Content\Sound\NormalSEs.xwb
+Content\Sound\ObjectSEs.xwb
+Content\Sound\BGMs.xsb
+Content\Sound\NormalSEs.xsb
+Content\Sound\ObjectSEs.xsb

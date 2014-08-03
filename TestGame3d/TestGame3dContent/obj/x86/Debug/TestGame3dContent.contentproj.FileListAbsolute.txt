@@ -1,0 +1,13 @@
+C:\Users\tamamaken\Documents\Students\1018003\TestProjects\TestGame3d\TestGame3d\TestGame3dContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\tamamaken\Documents\Students\1018003\MainProjects\BasicOfBasic\TestGame3d\TestGame3dContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\tamamaken\Documents\Students\1018003\MainProjects\BasicOfBasic\TestGame3d\TestGame3dContent\obj\x86\Debug\Sound\HelloXact.xml
+C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis01002\TestGame3d\TestGame3dContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis01002\TestGame3d\TestGame3dContent\obj\x86\Debug\Sound\GameSounds.xml
+C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis01003\TestGame3d\TestGame3dContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis01003\TestGame3d\TestGame3dContent\obj\x86\Debug\Sound\GameSounds.xml
+C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis01004\TestGame3d\TestGame3dContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis01004\TestGame3d\TestGame3dContent\obj\x86\Debug\Sound\GameSounds.xml
+C:\Users\tamamaken\Documents\Students\1018003\MainProjects\Tennis01\TestGame3d\TestGame3dContent\obj\x86\Debug\TestGame3dContent.contentprojResolveAssemblyReference.cache
+C:\Users\tamamaken\Documents\Students\1018003\MainProjects\Tennis01\TestGame3d\TestGame3dContent\obj\x86\Debug\Sound\GameSounds.xml
+C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis01005\TestGame3d\TestGame3dContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis01005\TestGame3d\TestGame3dContent\obj\x86\Debug\Sound\GameSounds.xml

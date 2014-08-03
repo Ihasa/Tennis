@@ -1,0 +1,3 @@
+C:\Users\tamamaken\Documents\Students\1018003\TestProjects\TestGame3d\TestGame3d\TestGame3dContent\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\tamamaken\Documents\Students\1018003\MainProjects\Tennis01\TestGame3d\TestGame3dContent\obj\x86\Release\TestGame3dContent.contentprojResolveAssemblyReference.cache
+C:\Users\tamamaken\Documents\Students\1018003\MainProjects\Tennis01\TestGame3d\TestGame3dContent\obj\x86\Release\Sound\GameSounds.xml

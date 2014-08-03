@@ -1,0 +1,1535 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Textures\skyw2.png</Source>
+      <Name>Textures\skyw2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Textures\skyw2.xnb</Output>
+      <Time>2014-08-03T23:20:42.4979169+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\fire.png</Source>
+      <Name>Textures\fire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Textures\fire.xnb</Output>
+      <Time>2014-08-03T23:20:42.0299161+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\line_Y.png</Source>
+      <Name>Textures\line_Y</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Textures\line_Y.xnb</Output>
+      <Time>2014-08-03T23:20:42.2483165+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\fireB.png</Source>
+      <Name>Textures\fireB</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Textures\fireB.xnb</Output>
+      <Time>2014-08-03T23:20:42.1079163+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\fireY.png</Source>
+      <Name>Textures\fireY</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Textures\fireY.xnb</Output>
+      <Time>2014-08-03T23:20:42.1703164+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\fireG.png</Source>
+      <Name>Textures\fireG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Textures\fireG.xnb</Output>
+      <Time>2014-08-03T23:20:42.1391163+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\snow.png</Source>
+      <Name>Textures\snow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Textures\snow.xnb</Output>
+      <Time>2014-08-03T23:20:42.5759171+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\rain.png</Source>
+      <Name>Textures\rain</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Textures\rain.xnb</Output>
+      <Time>2014-08-03T23:20:42.3263166+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\alpaca.png</Source>
+      <Name>Textures\alpaca</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Textures\alpaca.xnb</Output>
+      <Time>2014-08-03T23:20:41.4995152+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\sand.png</Source>
+      <Name>Textures\sand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Textures\sand.xnb</Output>
+      <Time>2014-08-03T23:20:42.3731167+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\cursor.png</Source>
+      <Name>Textures\cursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Textures\cursor.xnb</Output>
+      <Time>2014-08-03T23:20:41.951916+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\buttonBase.png</Source>
+      <Name>Textures\buttonBase</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Textures\buttonBase.xnb</Output>
+      <Time>2014-08-03T23:20:41.6399154+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\circle.png</Source>
+      <Name>Textures\circle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Textures\circle.xnb</Output>
+      <Time>2014-08-03T23:20:41.7179156+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\circle2.png</Source>
+      <Name>Textures\circle2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Textures\circle2.xnb</Output>
+      <Time>2014-08-03T23:20:41.7959157+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\null.png</Source>
+      <Name>Textures\null</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Textures\null.xnb</Output>
+      <Time>2014-08-03T23:20:42.2951166+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\gra.png</Source>
+      <Name>Textures\gra</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Textures\gra.xnb</Output>
+      <Time>2014-08-03T23:20:42.2171165+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\basic.png</Source>
+      <Name>Textures\basic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Textures\basic.xnb</Output>
+      <Time>2014-08-03T23:20:41.5775153+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\controller.png</Source>
+      <Name>Textures\controller</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Textures\controller.xnb</Output>
+      <Time>2014-08-03T23:20:41.8739158+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\shots.png</Source>
+      <Name>Textures\shots</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Textures\shots.xnb</Output>
+      <Time>2014-08-03T23:20:42.4199168+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\shotTech.png</Source>
+      <Name>Textures\shotTech</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Textures\shotTech.xnb</Output>
+      <Time>2014-08-03T23:20:42.4667169+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\title.png</Source>
+      <Name>Textures\title</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Textures\title.xnb</Output>
+      <Time>2014-08-03T23:20:42.6227172+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\smash.png</Source>
+      <Name>Textures\smash</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Textures\smash.xnb</Output>
+      <Time>2014-08-03T23:20:42.544717+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\CenterCourt.x</Source>
+      <Name>Models\CenterCourt</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\CenterCourt.xnb</Output>
+      <Time>2014-08-03T23:19:47.8313111+09:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\CenterCourt_0.xml</Key>
+        <Value>2014-08-03T23:20:47.2419937+09:00</Value>
+      </Dependency>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\surface2_0.xnb</Request>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\surface3_0.xnb</Request>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\tex01_0.xnb</Request>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\tex_00001_0.xnb</Request>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\audience_0.xnb</Request>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\step_0.xnb</Request>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\rengaAndTree_0.xnb</Request>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\skyw2_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\NormalCourt.x</Source>
+      <Name>Models\NormalCourt</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\NormalCourt.xnb</Output>
+      <Time>2014-08-03T23:19:52.9992015+09:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\NormalCourt_0.xml</Key>
+        <Value>2014-08-03T23:20:49.697884+09:00</Value>
+      </Dependency>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\surface2_0.xnb</Request>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\surface3_0.xnb</Request>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\tex01_0.xnb</Request>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\tex_00001_0.xnb</Request>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\numberPlate_0.xnb</Request>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\clock_0.xnb</Request>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\around_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\NormalCourt_Wall.x</Source>
+      <Name>Models\NormalCourt_Wall</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\NormalCourt_Wall.xnb</Output>
+      <Time>2014-08-03T23:19:53.8172483+09:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\NormalCourt_Wall_0.xml</Key>
+        <Value>2014-08-03T23:20:50.1190847+09:00</Value>
+      </Dependency>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\wall_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\racket.x</Source>
+      <Name>Models\racket</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\racket.xnb</Output>
+      <Time>2014-08-03T23:19:58.5751837+09:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\racket_0.xml</Key>
+        <Value>2014-08-03T23:20:50.259485+09:00</Value>
+      </Dependency>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\racket_test_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\tennisCourt_big.x</Source>
+      <Name>Models\tennisCourt_big</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\tennisCourt_big.xnb</Output>
+      <Time>2014-08-03T23:20:36.3636965+09:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\tennisCourt_big_0.xml</Key>
+        <Value>2014-08-03T23:20:51.0550864+09:00</Value>
+      </Dependency>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\surface2_0.xnb</Request>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\surface3_0.xnb</Request>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\tex01_0.xnb</Request>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\tex_00001_0.xnb</Request>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\audienceDepth_0.xnb</Request>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\step_0.xnb</Request>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\rengaAndTree_0.xnb</Request>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\skyw2_0.xnb</Request>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\numberPlate_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\tennisCourt_big2.x</Source>
+      <Name>Models\tennisCourt_big2</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\tennisCourt_big2.xnb</Output>
+      <Time>2014-08-03T23:20:36.9252975+09:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\tennisCourt_big2_0.xml</Key>
+        <Value>2014-08-03T23:20:52.1002882+09:00</Value>
+      </Dependency>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\surface2_0.xnb</Request>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\surface3_0.xnb</Request>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\tex01_0.xnb</Request>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\tex_00001_0.xnb</Request>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\audienceDepth_0.xnb</Request>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\step_0.xnb</Request>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\rengaAndTree_0.xnb</Request>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\skyw2_0.xnb</Request>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\numberPlate_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\racket1.x</Source>
+      <Name>Models\racket1</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\racket1.xnb</Output>
+      <Time>2014-08-03T23:20:01.447348+09:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\racket1_0.xml</Key>
+        <Value>2014-08-03T23:20:52.521489+09:00</Value>
+      </Dependency>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\racket1_tex_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\racket2.x</Source>
+      <Name>Models\racket2</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\racket2.xnb</Output>
+      <Time>2014-08-03T23:20:02.4053942+09:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\racket2_0.xml</Key>
+        <Value>2014-08-03T23:20:52.7554894+09:00</Value>
+      </Dependency>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\racket2_tex_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\racket3.x</Source>
+      <Name>Models\racket3</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\racket3.xnb</Output>
+      <Time>2014-08-03T23:20:34.6632935+09:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\racket3_0.xml</Key>
+        <Value>2014-08-03T23:20:52.9894898+09:00</Value>
+      </Dependency>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\racket3_tex_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Test\bottle.x</Source>
+      <Name>Test\bottle</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Test\bottle.xnb</Output>
+      <Time>2014-08-03T23:20:38.8319105+09:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Test\bottle_0.xml</Key>
+        <Value>2014-08-03T23:20:53.2234902+09:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Test\boxMan.x</Source>
+      <Name>Test\boxMan</Name>
+      <Importer>XImporter</Importer>
+      <Processor>SkinnedModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Test\boxMan.xnb</Output>
+      <Time>2014-08-03T23:20:38.8943106+09:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Test\boxMan_0.xml</Key>
+        <Value>2014-08-03T23:20:53.3638904+09:00</Value>
+      </Dependency>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Test\boxManTex_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Test\debugBox.x</Source>
+      <Name>Test\debugBox</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Test\debugBox.xnb</Output>
+      <Time>2014-08-03T23:20:39.0815109+09:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Test\debugBox_0.xml</Key>
+        <Value>2014-08-03T23:20:53.9566915+09:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Test\debugSphire.x</Source>
+      <Name>Test\debugSphire</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Test\debugSphire.xnb</Output>
+      <Time>2014-08-03T23:20:39.1439111+09:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Test\debugSphire_0.xml</Key>
+        <Value>2014-08-03T23:20:53.9878915+09:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Test\human170.x</Source>
+      <Name>Test\human170</Name>
+      <Importer>XImporter</Importer>
+      <Processor>SkinnedModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Test\human170.xnb</Output>
+      <Time>2014-08-03T23:20:39.2843113+09:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Test\human170_0.xml</Key>
+        <Value>2014-08-03T23:20:54.1438918+09:00</Value>
+      </Dependency>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Test\human170Tex_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Test\humanFat.x</Source>
+      <Name>Test\humanFat</Name>
+      <Importer>XImporter</Importer>
+      <Processor>SkinnedModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Test\humanFat.xnb</Output>
+      <Time>2014-08-03T23:20:39.3935115+09:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Test\humanFat_0.xml</Key>
+        <Value>2014-08-03T23:20:55.2202937+09:00</Value>
+      </Dependency>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Test\humanFatTex_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Test\iroiroTest2.x</Source>
+      <Name>Test\iroiroTest2</Name>
+      <Importer>XImporter</Importer>
+      <Processor>SkinnedModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Test\iroiroTest2.xnb</Output>
+      <Time>2014-08-03T23:20:40.0799127+09:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Test\iroiroTest2_0.xml</Key>
+        <Value>2014-08-03T23:20:57.1323122+09:00</Value>
+      </Dependency>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Test\skin_0.xnb</Request>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Test\hair_0.xnb</Request>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Test\face_0.xnb</Request>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Test\ware_0.xnb</Request>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Test\pants_0.xnb</Request>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Test\shoes_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Test\iroiroTest3.x</Source>
+      <Name>Test\iroiroTest3</Name>
+      <Importer>XImporter</Importer>
+      <Processor>SkinnedModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Test\iroiroTest3.xnb</Output>
+      <Time>2014-08-03T23:20:40.1891129+09:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Test\iroiroTest3_0.xml</Key>
+        <Value>2014-08-03T23:20:58.9640075+09:00</Value>
+      </Dependency>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Test\racket_frame_0.xnb</Request>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Test\racket_color_0.xnb</Request>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Test\human_face_0.xnb</Request>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Test\human_hair_0.xnb</Request>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Test\human_skin_0.xnb</Request>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Test\human_cap_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Test\judgeMan_old.x</Source>
+      <Name>Test\judgeMan_old</Name>
+      <Importer>XImporter</Importer>
+      <Processor>SkinnedModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Test\judgeMan_old.xnb</Output>
+      <Time>2014-08-03T23:20:40.4699134+09:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Test\judgeMan_old_0.xml</Key>
+        <Value>2014-08-03T23:20:59.8844091+09:00</Value>
+      </Dependency>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Test\racket_frame_0.xnb</Request>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Test\racket_color_0.xnb</Request>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Test\human_face_0.xnb</Request>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Test\human_hair_0.xnb</Request>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Test\human_skin_0.xnb</Request>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Test\human_cap_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\net.x</Source>
+      <Name>Models\net</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\net.xnb</Output>
+      <Time>2014-08-03T23:19:51.7581305+09:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\net_0.xml</Key>
+        <Value>2014-08-03T23:21:00.1652096+09:00</Value>
+      </Dependency>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\tex01_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Test\ballMan.x</Source>
+      <Name>Test\ballMan</Name>
+      <Importer>XImporter</Importer>
+      <Processor>SkinnedModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Test\ballMan.xnb</Output>
+      <Time>2014-08-03T23:20:38.6447102+09:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Test\ballMan_0.xml</Key>
+        <Value>2014-08-03T23:21:00.36801+09:00</Value>
+      </Dependency>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Test\ballManTex_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\maguro.x</Source>
+      <Name>Models\maguro</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\maguro.xnb</Output>
+      <Time>2014-08-03T23:19:50.2444491+09:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\maguro_0.xml</Key>
+        <Value>2014-08-03T23:21:01.5692121+09:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\maguroRacket.x</Source>
+      <Name>Models\maguroRacket</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\maguroRacket.xnb</Output>
+      <Time>2014-08-03T23:19:51.0064927+09:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\maguroRacket_0.xml</Key>
+        <Value>2014-08-03T23:21:02.5052137+09:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>SkinnedModels\kumasan.x</Source>
+      <Name>SkinnedModels\kumasan</Name>
+      <Importer>XImporter</Importer>
+      <Processor>SkinnedModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\SkinnedModels\kumasan.xnb</Output>
+      <Time>2014-08-03T23:20:37.3187078+09:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\SkinnedModels\kumasan_0.xml</Key>
+        <Value>2014-08-03T23:21:02.8952144+09:00</Value>
+      </Dependency>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\SkinnedModels\kumaTex1_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\tennisMachine.x</Source>
+      <Name>Models\tennisMachine</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\tennisMachine.xnb</Output>
+      <Time>2014-08-03T23:20:37.1063035+09:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\tennisMachine_0.xml</Key>
+        <Value>2014-08-03T23:21:03.254015+09:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\targetB.x</Source>
+      <Name>Models\targetB</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\targetB.xnb</Output>
+      <Time>2014-08-03T23:20:35.6772953+09:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\targetB_0.xml</Key>
+        <Value>2014-08-03T23:21:03.3008151+09:00</Value>
+      </Dependency>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\tar_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\targetR.x</Source>
+      <Name>Models\targetR</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\targetR.xnb</Output>
+      <Time>2014-08-03T23:20:36.0672959+09:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\targetR_0.xml</Key>
+        <Value>2014-08-03T23:21:03.5036155+09:00</Value>
+      </Dependency>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\tar2_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\ball.x</Source>
+      <Name>Models\ball</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\ball.xnb</Output>
+      <Time>2014-08-03T23:19:46.8822568+09:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\ball_0.xml</Key>
+        <Value>2014-08-03T23:21:03.7064158+09:00</Value>
+      </Dependency>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\ball_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>human12.x</Source>
+      <Name>human12</Name>
+      <Importer>XImporter</Importer>
+      <Processor>SkinnedModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\human12.xnb</Output>
+      <Time>2014-08-03T23:19:30.2973644+09:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\human12_0.xml</Key>
+        <Value>2014-08-03T23:21:11.6000297+09:00</Value>
+      </Dependency>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\humanTexBase_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Test\judgeMan.x</Source>
+      <Name>Test\judgeMan</Name>
+      <Importer>XImporter</Importer>
+      <Processor>SkinnedModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Test\judgeMan.xnb</Output>
+      <Time>2014-08-03T23:20:40.3139131+09:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Test\judgeMan_0.xml</Key>
+        <Value>2014-08-03T23:21:22.3796486+09:00</Value>
+      </Dependency>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Test\racket_frame_0.xnb</Request>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Test\racket_color_0.xnb</Request>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Test\human_face_0.xnb</Request>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Test\human_hair_0.xnb</Request>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Test\human_skin_0.xnb</Request>
+      <Request>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Test\human_cap_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Test\DebugFont.spritefont</Source>
+      <Name>Test\DebugFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Test\DebugFont.xnb</Output>
+      <Time>2014-08-03T23:20:39.112711+09:00</Time>
+    </Item>
+    <Item>
+      <Source>LogoFont.spritefont</Source>
+      <Name>LogoFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\LogoFont.xnb</Output>
+      <Time>2014-08-03T23:19:31.8724545+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Effect1.fx</Source>
+      <Name>Effect1</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Effect1.xnb</Output>
+      <Time>2014-08-03T23:19:27.528206+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\CenterCourt.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\CenterCourt_0.xml</Output>
+      <Time>2014-08-03T23:19:47.8313111+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\surface2.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\surface2_0.xnb</Output>
+      <Time>2014-08-03T23:20:36.5508968+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\surface3.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\surface3_0.xnb</Output>
+      <Time>2014-08-03T23:20:35.7240953+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\tex01.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\tex01_0.xnb</Output>
+      <Time>2014-08-03T23:20:37.1483059+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\tex_00001.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\tex_00001_0.xnb</Output>
+      <Time>2014-08-03T23:20:37.2407077+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\audience.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\audience_0.xnb</Output>
+      <Time>2014-08-03T23:19:33.5915528+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\step.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\step_0.xnb</Output>
+      <Time>2014-08-03T23:20:36.1452961+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\rengaAndTree.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\rengaAndTree_0.xnb</Output>
+      <Time>2014-08-03T23:20:35.536895+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\skyw2.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\skyw2_0.xnb</Output>
+      <Time>2014-08-03T23:20:35.7708954+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\NormalCourt.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\NormalCourt_0.xml</Output>
+      <Time>2014-08-03T23:19:52.9992015+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\numberPlate.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\numberPlate_0.xnb</Output>
+      <Time>2014-08-03T23:19:54.5522903+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\clock.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\clock_0.xnb</Output>
+      <Time>2014-08-03T23:19:49.4244022+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\around.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\around_0.xnb</Output>
+      <Time>2014-08-03T23:19:45.6521864+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\NormalCourt_Wall.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\NormalCourt_Wall_0.xml</Output>
+      <Time>2014-08-03T23:19:53.8172483+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\wall.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\wall_0.xnb</Output>
+      <Time>2014-08-03T23:20:37.2719078+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\racket.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\racket_0.xml</Output>
+      <Time>2014-08-03T23:19:58.5751837+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\racket_test.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\racket_test_0.xnb</Output>
+      <Time>2014-08-03T23:20:35.3340947+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\tennisCourt_big.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\tennisCourt_big_0.xml</Output>
+      <Time>2014-08-03T23:20:36.3636965+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\audienceDepth.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\audienceDepth_0.xnb</Output>
+      <Time>2014-08-03T23:19:32.8815122+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\tennisCourt_big2.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\tennisCourt_big2_0.xml</Output>
+      <Time>2014-08-03T23:20:36.9252975+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\racket1.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\racket1_0.xml</Output>
+      <Time>2014-08-03T23:20:01.447348+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\racket1_tex.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\racket1_tex_0.xnb</Output>
+      <Time>2014-08-03T23:20:00.2782812+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\racket2.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\racket2_0.xml</Output>
+      <Time>2014-08-03T23:20:02.4053942+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\racket2_tex.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\racket2_tex_0.xnb</Output>
+      <Time>2014-08-03T23:20:18.3374122+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\racket3.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\racket3_0.xml</Output>
+      <Time>2014-08-03T23:20:34.6632935+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\racket3_tex.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\racket3_tex_0.xnb</Output>
+      <Time>2014-08-03T23:20:35.1312943+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Test\bottle.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Test\bottle_0.xml</Output>
+      <Time>2014-08-03T23:20:38.8319105+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Test\boxMan.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Test\boxMan_0.xml</Output>
+      <Time>2014-08-03T23:20:38.8943106+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Test\boxManTex.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Test\boxManTex_0.xnb</Output>
+      <Time>2014-08-03T23:20:38.9723108+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Test\debugBox.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Test\debugBox_0.xml</Output>
+      <Time>2014-08-03T23:20:39.0815109+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Test\debugSphire.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Test\debugSphire_0.xml</Output>
+      <Time>2014-08-03T23:20:39.1439111+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Test\human170.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Test\human170_0.xml</Output>
+      <Time>2014-08-03T23:20:39.2843113+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Test\human170Tex.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Test\human170Tex_0.xnb</Output>
+      <Time>2014-08-03T23:20:39.3311114+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Test\humanFat.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Test\humanFat_0.xml</Output>
+      <Time>2014-08-03T23:20:39.3935115+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Test\humanFatTex.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Test\humanFatTex_0.xnb</Output>
+      <Time>2014-08-03T23:20:39.4559116+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Test\iroiroTest2.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Test\iroiroTest2_0.xml</Output>
+      <Time>2014-08-03T23:20:40.0799127+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Test\skin.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Test\skin_0.xnb</Output>
+      <Time>2014-08-03T23:20:41.1719146+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Test\hair.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Test\hair_0.xnb</Output>
+      <Time>2014-08-03T23:20:39.2219112+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Test\face.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Test\face_0.xnb</Output>
+      <Time>2014-08-03T23:20:39.1907111+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Test\ware.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Test\ware_0.xnb</Output>
+      <Time>2014-08-03T23:20:41.4371151+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Test\pants.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Test\pants_0.xnb</Output>
+      <Time>2014-08-03T23:20:40.6259137+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Test\shoes.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Test\shoes_0.xnb</Output>
+      <Time>2014-08-03T23:20:41.1407146+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Test\iroiroTest3.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Test\iroiroTest3_0.xml</Output>
+      <Time>2014-08-03T23:20:40.1891129+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Test\racket_frame.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Test\racket_frame_0.xnb</Output>
+      <Time>2014-08-03T23:20:40.9379142+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Test\racket_color.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Test\racket_color_0.xnb</Output>
+      <Time>2014-08-03T23:20:40.7819139+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Test\human_face.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Test\human_face_0.xnb</Output>
+      <Time>2014-08-03T23:20:39.658712+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Test\human_hair.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Test\human_hair_0.xnb</Output>
+      <Time>2014-08-03T23:20:39.7367121+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Test\human_skin.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Test\human_skin_0.xnb</Output>
+      <Time>2014-08-03T23:20:39.7991122+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Test\human_cap.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Test\human_cap_0.xnb</Output>
+      <Time>2014-08-03T23:20:39.5963118+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Test\judgeMan_old.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Test\judgeMan_old_0.xml</Output>
+      <Time>2014-08-03T23:20:40.4699134+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\net.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\net_0.xml</Output>
+      <Time>2014-08-03T23:19:51.7581305+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Test\ballMan.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Test\ballMan_0.xml</Output>
+      <Time>2014-08-03T23:20:38.6447102+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Test\ballManTex.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Test\ballManTex_0.xnb</Output>
+      <Time>2014-08-03T23:20:38.7071103+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\maguro.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\maguro_0.xml</Output>
+      <Time>2014-08-03T23:19:50.2444491+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\maguroRacket.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\maguroRacket_0.xml</Output>
+      <Time>2014-08-03T23:19:51.0064927+09:00</Time>
+    </Item>
+    <Item>
+      <Source>SkinnedModels\kumasan.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\SkinnedModels\kumasan_0.xml</Output>
+      <Time>2014-08-03T23:20:37.3187078+09:00</Time>
+    </Item>
+    <Item>
+      <Source>SkinnedModels\kumaTex1.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\SkinnedModels\kumaTex1_0.xnb</Output>
+      <Time>2014-08-03T23:20:37.3655079+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\tennisMachine.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\tennisMachine_0.xml</Output>
+      <Time>2014-08-03T23:20:37.1063035+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\targetB.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\targetB_0.xml</Output>
+      <Time>2014-08-03T23:20:35.6772953+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\tar.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\tar_0.xnb</Output>
+      <Time>2014-08-03T23:20:36.114096+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\targetR.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\targetR_0.xml</Output>
+      <Time>2014-08-03T23:20:36.0672959+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\tar2.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\tar2_0.xnb</Output>
+      <Time>2014-08-03T23:20:36.4416966+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\ball.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\ball_0.xml</Output>
+      <Time>2014-08-03T23:19:46.8822568+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\ball.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\Models\ball_0.xnb</Output>
+      <Time>2014-08-03T23:19:34.4646027+09:00</Time>
+    </Item>
+    <Item>
+      <Source>human12.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\human12_0.xml</Output>
+      <Time>2014-08-03T23:19:30.2973644+09:00</Time>
+    </Item>
+    <Item>
+      <Source>humanTexBase.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\humanTexBase_0.xnb</Output>
+      <Time>2014-08-03T23:19:31.1934156+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Test\judgeMan.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Test\judgeMan_0.xml</Output>
+      <Time>2014-08-03T23:20:40.3139131+09:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3dContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3dContent\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\Tennis09\TestGame3d\TestGame3d\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Users\Toshi332\Documents\Visual Studio 2010\Projects\Tennises\SkinningSample_4_0\SkinnedModelPipeline\bin\x86\Debug\SkinnedModelPipeline.dll</Key>
+        <Value>2014-01-28T00:36:12.438497+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-06-30T11:34:30.6717991+09:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
